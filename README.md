@@ -1,16 +1,22 @@
-# flutter_app_write_trial_task
+# Flutter Appwrite Demo
 
-A new Flutter project.
+This is a simple Flutter project demonstrating integration with Appwrite to fetch and display data.
 
-## Getting Started
+## Features
+- Fetch data from an Appwrite database.
+- Display a list of items with titles and descriptions.
 
-This project is a starting point for a Flutter application.
+## How to Run
+1. Clone the repository:
+2.  Navigate to the project directory:
+3.  Install dependencies.
+4.  Run the app:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements
+- Flutter version: 3.x.x
+- Appwrite configured with the database and collection as per the task.
+
+## Backend Setup
+See the `backend_documentation.md` for details on setting up Appwrite.
